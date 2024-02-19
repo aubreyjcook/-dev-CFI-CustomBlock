@@ -1,0 +1,1 @@
+console.log("Hello World! (from create-block-cfi-dev-customblock block)");
